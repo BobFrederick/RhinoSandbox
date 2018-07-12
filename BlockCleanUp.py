@@ -1,4 +1,4 @@
-#Block Tree example from Rhino.Common Samples test
+#Block Tree example from Rhino.Common Samples
 
 from scriptcontext import doc
 import Rhino
